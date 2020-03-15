@@ -19,7 +19,7 @@ namespace Shop
         }
         static void Main(string[] args)
         {
-
+            print_menu();
             Console.ReadLine();
         }
     }

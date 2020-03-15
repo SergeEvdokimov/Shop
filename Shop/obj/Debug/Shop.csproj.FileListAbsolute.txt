@@ -5,3 +5,10 @@ C:\Users\OOP11\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cac
 C:\Users\OOP11\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
 C:\Users\OOP11\source\repos\Shop\Shop\obj\Debug\Shop.exe
 C:\Users\OOP11\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\OOP11\Desktop\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\OOP11\Desktop\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\OOP11\Desktop\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\OOP11\Desktop\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\OOP11\Desktop\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\OOP11\Desktop\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\OOP11\Desktop\Shop\Shop\obj\Debug\Shop.pdb
