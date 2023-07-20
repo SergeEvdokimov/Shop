@@ -91,7 +91,7 @@ namespace Shop
         {
                 if (customers.Count == 0)
                 {
-                Console.WriteLine("Пользовательй пока нет :(");
+                Console.WriteLine("Клиентов пока нет :(");
                 }
                 else
                 {

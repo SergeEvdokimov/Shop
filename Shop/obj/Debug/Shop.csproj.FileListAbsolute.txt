@@ -12,3 +12,17 @@ C:\Users\OOP11\Desktop\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
 C:\Users\OOP11\Desktop\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
 C:\Users\OOP11\Desktop\Shop\Shop\obj\Debug\Shop.exe
 C:\Users\OOP11\Desktop\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Пользователь\Desktop\F.Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Пользователь\Desktop\F.Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Пользователь\Desktop\F.Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Пользователь\Desktop\F.Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\F.Shop\Shop\obj\Debug\Shop.exe
+C:\Users\Пользователь\Desktop\F.Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Serg\Desktop\FinishedShop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Serg\Desktop\FinishedShop\Shop\bin\Debug\Shop.exe
+C:\Users\Serg\Desktop\FinishedShop\Shop\bin\Debug\Shop.pdb
+C:\Users\Serg\Desktop\FinishedShop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\Serg\Desktop\FinishedShop\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Serg\Desktop\FinishedShop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Desktop\FinishedShop\Shop\obj\Debug\Shop.exe
+C:\Users\Serg\Desktop\FinishedShop\Shop\obj\Debug\Shop.pdb

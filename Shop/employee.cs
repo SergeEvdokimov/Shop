@@ -13,7 +13,7 @@ namespace Shop
         public string name;
         public string Last_name;
         private string position;
-        public employee(string name, string Last_name,string position)
+        public employee(string name, string Last_name, string position)
         {
             id = cur_max_id;
             cur_max_id++;
@@ -24,7 +24,7 @@ namespace Shop
         public void print()
         {
             Console.WriteLine("___________________");
-            Console.WriteLine("Продавец № " + id + ";");
+            Console.WriteLine("Работник № " + id + ";");
             Console.WriteLine(position + " " + name + " " + Last_name);
             Console.WriteLine("____________________");
         }

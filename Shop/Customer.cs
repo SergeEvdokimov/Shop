@@ -32,7 +32,7 @@ namespace Shop
             {
                 return true;
             }
-                return false;
+            return false;
         }
     }
 }
